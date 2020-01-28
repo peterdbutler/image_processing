@@ -1,0 +1,8 @@
+a.  The frequency response of a delta function is a constant 
+b.  see p5.xls sheet "p5b"
+c.  for a wider box filter, the magnitude of the frequency components is scaled larger
+d.  the fourier transform of a constant signal is an impulse response
+e.  the addition of a cosine signal to b(x) modulates the magnitude in the frequeny domains, because the cosines components are added or subtracted
+f.  b(x) is just scaled by 10.
+g.  the magnitude is unaffected, while the phase spectrum is shifted compared to the original b(x). 
+h.  the magnitude is again unaffected by the shift, but the phase is again shifted.
