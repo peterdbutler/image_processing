@@ -22,7 +22,7 @@
 ### HW3: Frequency Domain Operations
     * Discrete Fourier Transform (DFT)
     * Fast Fourier Transform (FFT)
-    * Example program swapping the phase componentes of two images
+    * Example program swapping the phase components of two images
 
 ### HW4: Resizing/Resampling
     
